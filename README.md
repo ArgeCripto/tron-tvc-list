@@ -1,3 +1,4 @@
+![THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC](https://github.com/tronscan/tron-tvc-list/assets/140019391/c83b7e98-6ec1-42e0-b46a-3388beb825da)
 # Adding new token
 The JSON schema for the tokens includes: address, name, decimals, symbol, logoURI, official homepage, MarketCap link, existing Markets.
 
